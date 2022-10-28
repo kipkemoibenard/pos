@@ -33,10 +33,10 @@ public class Main {
             System.out.println("Unanisumbua");
         }
         Scanner sd = new Scanner(System.in);
-        System.out.println("Enter a word");
-        String word = sd.next();
-        System.out.println("Your word is " + word);
-        int z = Integer.parseInt(word);
+        System.out.println("Enter a number");
+        String numb = sd.next();
+        System.out.println("Your number is " + numb);
+        int z = Integer.parseInt(numb);
         System.out.println(z);
 
      for (int j=0; j<3; j++){
