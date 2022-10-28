@@ -30,7 +30,7 @@ public class Main {
             System.out.println("Divisible by 3");
         } else {
 
-            System.out.println("Unanisumbua");
+            System.out.println("Number neither divisible by 3 nor 5");
         }
         Scanner sd = new Scanner(System.in);
         System.out.println("Enter a number");
