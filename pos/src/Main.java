@@ -33,7 +33,7 @@ public class Main {
             System.out.println("Number neither divisible by 3 nor 5");
         }
         Scanner sd = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Kindly Enter any number");
         String numb = sd.next();
         System.out.println("Your number is " + numb);
         int z = Integer.parseInt(numb);
