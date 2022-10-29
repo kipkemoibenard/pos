@@ -16,7 +16,7 @@ public class Main {
         System.out.println(x <= y);
 
         int love = 4;
-        String trueLove = love > 5 ? "Marry" : "Run";
+        String trueLove = love > 5 ? "Marry" : "Run very fast";
         System.out.println(trueLove);
 
         Scanner sc = new Scanner(System.in);
