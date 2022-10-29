@@ -5,11 +5,11 @@ import java.util.Set;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        System.out.println("Hello world! This is java");
 
         int age = 30;
         age = 37;
-        System.out.println("Your age is " + age);
+        System.out.println("Your are " + age + "years old");
 
         int x = 1;
         int y = 2;
